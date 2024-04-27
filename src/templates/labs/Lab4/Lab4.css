@@ -1,0 +1,19 @@
+.lab4-template .b-button {
+  margin-right: 10px;
+}
+
+.lab4-template__theme-light {
+  background-color: #e1f2d3;
+}
+
+.lab4-template__theme-dark {
+  background-color: #3c5438;
+}
+
+.lab4-template__clicker-wrapper {
+  margin-top: 10px;
+}
+
+.lab4-template__clicker-wrapper .b-button {
+  margin-left: 5px;
+}
